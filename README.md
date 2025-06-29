@@ -32,8 +32,8 @@ Understanding hotel location patterns helps:
 
 
 
-## Datasource
+## Datasource:
 [Kaggle](https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-hotels/data)
 
-## DAshboard:
+## Dashboard:
 [Tableau](https://public.tableau.com/views/WhereandWhyASpatialInsightintoHotelClustersinRiyadh/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop) 
